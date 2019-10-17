@@ -1,5 +1,11 @@
 Demo text for swengb exercise #2
 
+
+--------------------------------------
+
+
+Done with implementing complicated feature.
+
 --------
 
 Somebody added new changes to the master branch!
